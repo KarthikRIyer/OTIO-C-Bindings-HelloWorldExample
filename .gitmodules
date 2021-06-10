@@ -1,0 +1,3 @@
+[submodule "OpenTimelineIO-C-Bindings"]
+	path = OpenTimelineIO-C-Bindings
+	url = https://github.com/OpenTimelineIO/OpenTimelineIO-C-Bindings
